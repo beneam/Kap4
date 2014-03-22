@@ -11,14 +11,14 @@ Ext.define('HelloWorld.view.Main', {
         tabBarPosition: 'bottom',
 
         items: [
-           {   
-                    title: 'Home',
-                    iconCls: 'home',
-                    cls: 'home',
-                    html: [ '<h1>Welcome to my first app</h1>'
-                    ].join("")
-},{
-		title: 'Carousel',
+          // {   
+          //          title: 'Home',
+          //          iconCls: 'home',
+          //          cls: 'home',
+          //          html: [ '<h1>Welcome to my first app</h1>'
+          //          ].join("")
+//},{
+{		title: 'Carousel',
 		iconCls: 'more',
 		xtype: 'carousel',
 
