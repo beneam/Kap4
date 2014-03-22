@@ -82,7 +82,7 @@ Ext.define('HelloWorld.view.Main', {
                 },{ 
 		 xtype: 'panel',
                  title: 'Buttons',
-                 iconCls: 'star',
+                 iconCls: 'action',
 		flex  : 1,
                 margin: 10,
 		items: [
